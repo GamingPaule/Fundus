@@ -1,0 +1,12 @@
+# Build-Ausgaben
+bin/
+obj/
+publish/
+*.user
+*.suo
+.vs/
+.vscode/
+*.log
+
+# Python (Logo-Skript)
+__pycache__/
